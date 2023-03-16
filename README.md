@@ -5,6 +5,8 @@ I code in Ruby on Rails, JavaScript, HTML and CSS.
 
 I love books📚 (avg 50 books per year) and movies🎬 (avg 4 movies per month). Numbers are declining because I code more now 🤓 You can always find me in a bookstore or cinema 🙂
 
+Check out my portfolio 👉 [My Portfolio](https://wongluyee.netlify.app/)
+
 <!--
 **wongluyee/wongluyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
