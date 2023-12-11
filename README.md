@@ -13,6 +13,7 @@ Check out my portfolio 👉 [My Portfolio](https://wongluyee.netlify.app/)
 #### Languages & Tools
 <!-- Icons, visit: https://marwin1991.github.io/profile-technology-icons/ -->
 <div>
+	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
@@ -26,10 +27,12 @@ Check out my portfolio 👉 [My Portfolio](https://wongluyee.netlify.app/)
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
 </div>
 
+<!--
 #### Currently Learning
 <div>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 </div>
+-->
 
 ---
 #### Summary on GitHub
