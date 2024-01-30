@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lu Yee
 
-My name is Lu Yee and I'm a web developer👩‍💻 based in Tokyo, Japan but originally from Malaysia🇲🇾
+My name is Lu Yee and I'm a web developer👩‍💻 based in Tokyo, Japan but originally from Malaysia
 I love and am obsessed with coding.
 I started my coding journey out of curiousity, watching some tutorial videos on YouTube. After falling in love immediately I'm pursuing it as a career.
 To me, coding is like solving puzzles and I love solving puzzles! (I can do Sudokus and fiddle with a Rubik's Cube all day)
